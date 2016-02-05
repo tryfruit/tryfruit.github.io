@@ -16,7 +16,8 @@ To get on the same page we identified different phases when working with ideas:
 ![idea phases]({{ site.url }}/assets/idea-phases.png)
 
 Reflecting on this, we figured that 
-- we tend to jump back and forth between these phases when busy
-- stating in an argument the phase we think we are right now helps a lot
+
+* we tend to jump back and forth between these phases when busy
+* stating in an argument the phase we think we are right now helps a lot
 
 The main takeaway for us was that we use specific tools sometimes in a not-so-traditional fashion *(e.g. landing page tests when mapping out ideas to have more input for the idea selection phase)*.
